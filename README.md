@@ -1,4 +1,4 @@
 # TheBandDatabase
 Provides information about music bands.
-Uses Fragments.
+This app uses Fragments, and has an API level of 28.
 This app was developed from Zybooks Chapter 5 for Object Oriented Programming.
